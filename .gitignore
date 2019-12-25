@@ -2,7 +2,6 @@
 .DS_Store
 
 venv
-
 auto_send_report
 
 web_spider/00/ppt.jpg

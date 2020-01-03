@@ -8,8 +8,7 @@
 import scrapy
 
 
-class DoubanItem(scrapy.Item):
-    title = scrapy.Field()
-    score = scrapy.Field()
-    publish = scrapy.Field()
+class DangdangItem(scrapy.Item):
+    # define the fields for your item here like:
+    # name = scrapy.Field()
     pass

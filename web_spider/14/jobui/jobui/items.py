@@ -9,5 +9,12 @@ import scrapy
 
 
 class JobuiItem(scrapy.Item):
-    name
+    # 公司名称
+    company_name = scrapy.Field()
+    # 职位名称
+    job_title = scrapy.Field()
+    # 公司地址
+    address = scrapy.Field()
+    # 招聘要求
+    requirements = scrapy.Field()
     pass

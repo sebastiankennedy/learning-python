@@ -1,0 +1,7 @@
+host = ''
+port = ''
+username = ''
+password = ''
+from_addr = ''
+to_addr = ''
+subject = ''

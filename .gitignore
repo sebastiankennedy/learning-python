@@ -7,6 +7,7 @@ auto_send_report
 web_spider/.DS_Store
 web_spider/00/ppt.jpg
 web_spider/00/demo.mp3
+web_spider/10/__pycache__/*
 web_spider/13/douban/douban/__pycache__/*
 web_spider/13/douban/douban/spiders/__pycache__/*
 web_spider/13/dangdang/dangdang/__pycache__/*
